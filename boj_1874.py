@@ -1,5 +1,5 @@
-#import sys
-#input = sys.stdin.readline
+import sys
+input = sys.stdin.readline
 
 check_point = 1
 stack = list()
