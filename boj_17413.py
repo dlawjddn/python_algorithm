@@ -25,4 +25,5 @@ for i in string:
             stack.append(i)
 while stack:
     ans.append(stack.pop())
+
 print(''.join(ans))
